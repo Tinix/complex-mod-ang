@@ -1,14 +1,10 @@
 Tinix 
 10 de marzo de 2011 
-El proyecto consiste en realizar dos implementaciones del TAD N´ 
-umero Complejo en el len- 
-guaje C. 
+El proyecto consiste en realizar dos implementaciones del TAD 
+Numero Complejo en el lenguaje C. 
 Para hacer los programas tener en cuenta: 
-Para implementar el TAD hay que utilizar estructuras en C y archivos separados seg´ 
-un se 
-indique. 
-Cuando se creen “headers” (archivos .h) hacer la cerradura ifndef como se explic´o en el 
-te´orico. 
+Para implementar el TAD hay que utilizar estructuras en C y archivos separados segun se indique. 
+Cuando se creen “headers” (archivos .h) hacer la cerradura ifndef como se explic´o en el teorico. 
 Compilar todos los archivos y linkear el programa con las opciones -ansi, -pedantic, 
          -Wall y -std=c99. Ver que no haya mensajes de error o advertencias. 
          No usar ninguna variable global. 
